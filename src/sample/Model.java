@@ -9,6 +9,7 @@ public class Model {
             case "-":
                 return number-number2;
             case "*":
+                System.out.print("git testing");
                 return number*number2;
             default:return 0;
 

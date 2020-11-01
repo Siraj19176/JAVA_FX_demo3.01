@@ -99,6 +99,9 @@ public class Controller {
             r8.setLayoutX(-300);
 
         r8.setLayoutX(r8.getLayoutX()+1);
+
+        System.out.print("Git testing");
+        System.out.print("Git testing");
     }
 
 
