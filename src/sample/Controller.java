@@ -100,8 +100,8 @@ public class Controller {
 
         r8.setLayoutX(r8.getLayoutX()+1);
 
-        System.out.print("Git testing");
-        System.out.print("Git testing");
+        System.out.println("Git testing");
+        System.out.println("Git testing");
     }
 
 
